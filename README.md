@@ -38,7 +38,6 @@ The storage was divided into three logical volumes:
 
 ### Mount Points
 
-text
 /company/finance
 /company/operations
 /company/backup
