@@ -31,7 +31,9 @@ The storage was divided into three logical volumes:
 **| Logical Volume | Size | Purpose |**
 
 | finance_lv | 7 GB | Finance department data |
+
 | operations_lv | 5 GB | Operations department data |
+
 | backup_lv | 7 GB | Backup and synchronized files |
 
 ### Mount Points
